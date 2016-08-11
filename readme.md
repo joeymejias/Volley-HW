@@ -27,6 +27,7 @@ After Retrofit, the next most popular neworking library for Android is Google's 
 #### Starter code
 
 You have three options:
+
 1. Build this app from scratch
 1. Start with your code from the [Networking in Android Lab](https://github.com/ga-adi-nyc/networking-in-android-lab)
 1. Start with the solution code from the [Networking in Android Lab](https://github.com/ga-adi-nyc/networking-in-android-lab)
