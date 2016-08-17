@@ -21,12 +21,6 @@ After Retrofit, the next most popular neworking library for Android is Google's 
 - Make the same calls to the [Walmart API](https://developer.walmartlabs.com/io-docs) that you made for the lab, and display the products to your user
 - Use Volley's `RequestQueue` to perform API calls asynchronously on a worker thread (instead of the AsyncTask approach used in the lab)
 
----
-
-## Licensing
-1. All content is licensed under a CC-BY-NC-SA 4.0 license. 
-2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
-
 **Bonus:**
 - If a user clicks on of the product buttons while a network request is still pending, cancel the existing request and launch the new one
 
@@ -41,3 +35,9 @@ You have three options:
 #### Deliverable
 
 This is an optional homework. If you choose to complete it, submit a pull request with your completed app and you will receive feedback.
+
+---
+
+## Licensing
+1. All content is licensed under a CC-BY-NC-SA 4.0 license. 
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
